@@ -88,7 +88,7 @@ Window:EditOpenButton({
 
 -- Tabs
 local Tabs = {
-    MainTab = Window:Tab({ Title = gradient("MAIN", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")), Icon = "terminal" }),
+    MainTab = Window:Tab({ Title = gradient("DUPE WEAPONS", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")), Icon = "terminal" }),
     CharacterTab = Window:Tab({ Title = gradient("CHARACTER", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")), Icon = "file-cog" }),
     TeleportTab = Window:Tab({ Title = gradient("TELEPORT", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")), Icon = "user" }),
     EspTab = Window:Tab({ Title = gradient("ESP", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")), Icon = "eye" }),
